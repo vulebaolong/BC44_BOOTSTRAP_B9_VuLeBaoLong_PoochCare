@@ -1,0 +1,16 @@
+[data-bs-theme="dark"] {
+    /* nên tối */
+    --color-bg-body: #212529;
+
+    --color-text-1-bgInLight: #ddd;
+    --color-text-2-bgInLight: #afafaf;
+    --color-text-2-bgInDark: #afafaf;
+
+    --color-section: #1a1d20;
+
+    --color-dot-testimonials: #fff;
+
+    --color-bg-plan_item: #161616;
+
+    --color-bg-service_icon: #161616;
+}
