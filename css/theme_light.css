@@ -2,19 +2,17 @@
     /* nền sáng */
     --color-bg-body: #f8f9fa;
 
-    /* màu chữ nền sáng*/
     --color-text-1-bgInLight: #212529;
-    /* màu chữ tối hớn level 1 */
     --color-text-2-bgInLight: #212529cc;
-    /* --color-text-2-bgInDark: #afafaf; */
+    --color-text-2-bgInDark: rgb(33, 37, 41);
 
     --color-section: #fff;
+
+    --color-dot-testimonials: #000000a3;
 
     --color-bg-plan_item: #fff;
 
     --color-bg-service_icon: #161616;
 
     --box-shadow1: rgba(149, 157, 165, 0.2) 0px 2px 24px;
-
-    --color-dot-testimonials: #000000a3;
 }
